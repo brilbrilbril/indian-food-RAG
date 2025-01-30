@@ -1,5 +1,6 @@
 # indian-food-RAG
-Brillyando Magathan Achmad
+Gdrive : https://drive.google.com/drive/folders/1Ydtojj8HcCUUA_kpMKdiC33I_np1UG6J?usp=sharing
+Brillyando
 
 1. This chain will make the marketing process to be more personalized like spicy or not, vegetarian or not, and good for diet or not because more interactive and detailed description will be given to user based on their query or desire.
 
